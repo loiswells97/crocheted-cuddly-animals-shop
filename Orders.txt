@@ -1,0 +1,34 @@
+Joe Bloggs
+09/12/2020 11:01:39
+Basket:
+Item code 5: [Item name: Lion, Price: £17.49, Description: 25cm long with a golden mane fit for a king](x1)
+Item code 8: [Item name: Owl, Price: £12.99, Description: 40cm tall with a feather-patterned body and huge button eyes](x1)
+Total cost: £30.48
+
+James Doe
+09/12/2020 12:05:29
+Basket:
+Item code 5: [Item name: Lion, Price: £17.49, Description: 25cm long with a golden mane fit for a king](x1)
+Total cost: £17.49
+
+James Doe
+11/12/2020 10:56:17
+Basket:
+Item code 5: [Item name: Lion, Price: £17.49, Description: 25cm long with a golden mane fit for a king](x1)
+Total cost: £17.49
+
+Joe Bloggs
+11/12/2020 11:04:29
+Basket:
+Item code 4: [Item name: Giraffe, Price: £15.99, Description: 30cm tall with a long neck and adorable eyes](x1)
+Item code 7: [Item name: Octopus, Price: £13.49, Description: 25cm tall and red with eight arms for multiple hugs at once](x1)
+Item code 10: [Item name: Whale, Price: £12.99, Description: 50cm long and perfect for cuddling](x1)
+Total cost: £42.47
+
+Joan Bryan
+15/12/2020 16:08:07
+Basket:
+Item code 7: [Item name: Octopus, Price: £13.49, Description: 25cm tall and red with eight arms for multiple hugs at once](x2)
+Item code 8: [Item name: Owl, Price: £12.99, Description: 40cm tall with a feather-patterned body and huge button eyes](x1)
+Total cost: £39.97
+
